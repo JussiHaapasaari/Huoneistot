@@ -7,12 +7,6 @@
 ### Title
 tour.name = Huoneistot
 
-## Skin
-
-### Multiline Text
-HTMLText_A69A0DD3_A881_15A4_41B6_16E613E59D14.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Bodoni MT';"><B>{{subtitle}}</B></SPAN></SPAN></DIV></div>
-HTMLText_BCF945CB_A872_5677_41E0_7F723AF0B4DE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-
 ## Media
 
 ### Subtitle
